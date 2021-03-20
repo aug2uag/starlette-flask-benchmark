@@ -17,7 +17,7 @@ httpx==0.11.1
 hyperframe==5.2.0
 idna==2.8
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 meinheld==1.0.1
 multidict==4.7.4
