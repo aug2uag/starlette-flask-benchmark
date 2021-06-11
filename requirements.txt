@@ -31,6 +31,6 @@ supervisor-stdout==0.1.1
 urllib3==1.25.8
 uvicorn==0.11.2
 uvloop==0.14.0
-websockets==8.1
+websockets==9.1
 Werkzeug==1.0.0
 yarl==1.4.2
